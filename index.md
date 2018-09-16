@@ -23,8 +23,7 @@
   ..
 ### 专业博客发表
   在博客园发表过部分博客，内容包括开发过程总结 ，专业知识分析等
-  http://github.com - automatic!
-[GitHub](http://github.com)
+  https://home.cnblogs.com/u/wwd1505-1/ 
 
 
 
