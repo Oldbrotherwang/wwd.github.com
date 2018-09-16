@@ -5,14 +5,13 @@
 
 
 
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 姓名  | 王文达  | 性别  | 男  |
+| 出生年月  | 1997.6.4  | 学历  | 大学本科  |
+| 毕业院校  | 石家庄铁道大学  | 毕业时间  | 2019.6.30  |
+
 
 ### 学习情况 
+
 ### 社会活动情况
 ### 专业实践情况
 ### 专业技能展示
