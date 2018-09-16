@@ -3,13 +3,9 @@
 
 ### 个人简历
 
-| 姓名 | 王文达 | 性别 | 男 |
-||||
-||||||||
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
