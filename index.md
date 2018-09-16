@@ -26,3 +26,7 @@
 [GitHub](http://github.com)
 
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
